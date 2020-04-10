@@ -8,7 +8,7 @@ The code requires the user to
 (3) Core of the filenames to be used for output
 (4) When prompted, select a background and signal region for one example image
 
-Once the code running completed th user can expect the following output files in the output folder specified
+Once the code running completed the user can expect the following output files in the output folder specified
 (1) Raw intensity profiles in both _.pdf_ and _.fig_ formats
 (2) Normalized intensity profiles in both _.pdf_ and _.fig_ formats
 (3) Normalized intensity profiles with normalized axes lengths in both _.pdf_ and _.fig_ formats
