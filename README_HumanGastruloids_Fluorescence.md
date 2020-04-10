@@ -1,4 +1,4 @@
-# Gastruloids_Fluorescence
+# Human_Gastruloids_Fluorescence
 
 This is a MATLAB code, the purspose of which is to read a .tif file containing multi-channel 2D image from gastruloid samples and quantify the intesnity profile along the long axis. 
 
